@@ -1,0 +1,3 @@
+Create a robust memory management system featuring an API reminiscent of the C malloc() function. This system will utilize a file as its underlying storage to ensure persistent data availability across different processes. You may use the following to bootstrap the project:
+
+You can earn 3% extra credit by implementing the scm_free() function and showcasing the correctness of your implementation through the addition of the required code to enable a "remove" command for words.
